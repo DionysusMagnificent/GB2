@@ -1,0 +1,7 @@
+F:\Програкмирование гикбрэинс\App4\App4\bin\Debug\App4.exe.config
+F:\Програкмирование гикбрэинс\App4\App4\bin\Debug\App4.exe
+F:\Програкмирование гикбрэинс\App4\App4\bin\Debug\App4.pdb
+F:\Програкмирование гикбрэинс\App4\App4\obj\Debug\App4.csproj.AssemblyReference.cache
+F:\Програкмирование гикбрэинс\App4\App4\obj\Debug\App4.csproj.CoreCompileInputs.cache
+F:\Програкмирование гикбрэинс\App4\App4\obj\Debug\App4.exe
+F:\Програкмирование гикбрэинс\App4\App4\obj\Debug\App4.pdb

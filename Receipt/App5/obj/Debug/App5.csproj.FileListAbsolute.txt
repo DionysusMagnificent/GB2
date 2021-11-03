@@ -1,0 +1,7 @@
+F:\Програкмирование гикбрэинс\App5\App5\obj\Debug\App5.csproj.AssemblyReference.cache
+F:\Програкмирование гикбрэинс\App5\App5\obj\Debug\App5.csproj.CoreCompileInputs.cache
+F:\Програкмирование гикбрэинс\App5\App5\bin\Debug\App5.exe.config
+F:\Програкмирование гикбрэинс\App5\App5\bin\Debug\App5.exe
+F:\Програкмирование гикбрэинс\App5\App5\bin\Debug\App5.pdb
+F:\Програкмирование гикбрэинс\App5\App5\obj\Debug\App5.exe
+F:\Програкмирование гикбрэинс\App5\App5\obj\Debug\App5.pdb
