@@ -1,0 +1,7 @@
+F:\GeekBrains HW\HW4\GetFullName\GetFullName\bin\Debug\GetFullName.exe.config
+F:\GeekBrains HW\HW4\GetFullName\GetFullName\bin\Debug\GetFullName.exe
+F:\GeekBrains HW\HW4\GetFullName\GetFullName\bin\Debug\GetFullName.pdb
+F:\GeekBrains HW\HW4\GetFullName\GetFullName\obj\Debug\GetFullName.csproj.AssemblyReference.cache
+F:\GeekBrains HW\HW4\GetFullName\GetFullName\obj\Debug\GetFullName.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\HW4\GetFullName\GetFullName\obj\Debug\GetFullName.exe
+F:\GeekBrains HW\HW4\GetFullName\GetFullName\obj\Debug\GetFullName.pdb
