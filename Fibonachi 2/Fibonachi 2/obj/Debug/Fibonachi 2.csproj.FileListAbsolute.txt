@@ -1,0 +1,7 @@
+F:\GeekBrains HW\HW4\Fibonachi 2\Fibonachi 2\bin\Debug\Fibonachi 2.exe.config
+F:\GeekBrains HW\HW4\Fibonachi 2\Fibonachi 2\bin\Debug\Fibonachi 2.exe
+F:\GeekBrains HW\HW4\Fibonachi 2\Fibonachi 2\bin\Debug\Fibonachi 2.pdb
+F:\GeekBrains HW\HW4\Fibonachi 2\Fibonachi 2\obj\Debug\Fibonachi 2.csproj.AssemblyReference.cache
+F:\GeekBrains HW\HW4\Fibonachi 2\Fibonachi 2\obj\Debug\Fibonachi 2.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\HW4\Fibonachi 2\Fibonachi 2\obj\Debug\Fibonachi 2.exe
+F:\GeekBrains HW\HW4\Fibonachi 2\Fibonachi 2\obj\Debug\Fibonachi 2.pdb
