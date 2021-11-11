@@ -1,0 +1,7 @@
+F:\GeekBrains HW\HW4\seasons\seasons\bin\Debug\seasons.exe.config
+F:\GeekBrains HW\HW4\seasons\seasons\bin\Debug\seasons.exe
+F:\GeekBrains HW\HW4\seasons\seasons\bin\Debug\seasons.pdb
+F:\GeekBrains HW\HW4\seasons\seasons\obj\Debug\seasons.csproj.AssemblyReference.cache
+F:\GeekBrains HW\HW4\seasons\seasons\obj\Debug\seasons.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\HW4\seasons\seasons\obj\Debug\seasons.exe
+F:\GeekBrains HW\HW4\seasons\seasons\obj\Debug\seasons.pdb
