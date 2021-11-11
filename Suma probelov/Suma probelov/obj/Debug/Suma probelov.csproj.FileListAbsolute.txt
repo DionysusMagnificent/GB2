@@ -1,0 +1,7 @@
+F:\GeekBrains HW\HW4\Suma probelov\Suma probelov\bin\Debug\Suma probelov.exe.config
+F:\GeekBrains HW\HW4\Suma probelov\Suma probelov\bin\Debug\Suma probelov.exe
+F:\GeekBrains HW\HW4\Suma probelov\Suma probelov\bin\Debug\Suma probelov.pdb
+F:\GeekBrains HW\HW4\Suma probelov\Suma probelov\obj\Debug\Suma probelov.csproj.AssemblyReference.cache
+F:\GeekBrains HW\HW4\Suma probelov\Suma probelov\obj\Debug\Suma probelov.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\HW4\Suma probelov\Suma probelov\obj\Debug\Suma probelov.exe
+F:\GeekBrains HW\HW4\Suma probelov\Suma probelov\obj\Debug\Suma probelov.pdb
