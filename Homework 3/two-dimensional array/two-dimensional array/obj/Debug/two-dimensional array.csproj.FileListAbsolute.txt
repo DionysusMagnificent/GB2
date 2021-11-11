@@ -1,7 +1,0 @@
-F:\GeekBrains HW\two-dimensional array\two-dimensional array\bin\Debug\two-dimensional array.exe.config
-F:\GeekBrains HW\two-dimensional array\two-dimensional array\bin\Debug\two-dimensional array.exe
-F:\GeekBrains HW\two-dimensional array\two-dimensional array\bin\Debug\two-dimensional array.pdb
-F:\GeekBrains HW\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.csproj.AssemblyReference.cache
-F:\GeekBrains HW\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.csproj.CoreCompileInputs.cache
-F:\GeekBrains HW\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.exe
-F:\GeekBrains HW\two-dimensional array\two-dimensional array\obj\Debug\two-dimensional array.pdb

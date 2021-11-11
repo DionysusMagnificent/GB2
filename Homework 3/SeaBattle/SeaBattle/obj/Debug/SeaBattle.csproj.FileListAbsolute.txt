@@ -1,7 +1,0 @@
-F:\GeekBrains HW\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
-F:\GeekBrains HW\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
-F:\GeekBrains HW\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
-F:\GeekBrains HW\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
-F:\GeekBrains HW\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
-F:\GeekBrains HW\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
-F:\GeekBrains HW\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb

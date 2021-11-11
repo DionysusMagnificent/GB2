@@ -1,7 +1,0 @@
-F:\GeekBrains HW\phonebook\phonebook\bin\Debug\phonebook.exe.config
-F:\GeekBrains HW\phonebook\phonebook\bin\Debug\phonebook.exe
-F:\GeekBrains HW\phonebook\phonebook\bin\Debug\phonebook.pdb
-F:\GeekBrains HW\phonebook\phonebook\obj\Debug\phonebook.csproj.AssemblyReference.cache
-F:\GeekBrains HW\phonebook\phonebook\obj\Debug\phonebook.csproj.CoreCompileInputs.cache
-F:\GeekBrains HW\phonebook\phonebook\obj\Debug\phonebook.exe
-F:\GeekBrains HW\phonebook\phonebook\obj\Debug\phonebook.pdb

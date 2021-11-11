@@ -1,7 +1,0 @@
-F:\GeekBrains HW\Reverse\Reverse\bin\Debug\Reverse.exe.config
-F:\GeekBrains HW\Reverse\Reverse\bin\Debug\Reverse.exe
-F:\GeekBrains HW\Reverse\Reverse\bin\Debug\Reverse.pdb
-F:\GeekBrains HW\Reverse\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
-F:\GeekBrains HW\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
-F:\GeekBrains HW\Reverse\Reverse\obj\Debug\Reverse.exe
-F:\GeekBrains HW\Reverse\Reverse\obj\Debug\Reverse.pdb

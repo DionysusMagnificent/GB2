@@ -1,7 +1,0 @@
-F:\Програкмирование гикбрэинс\App2\App2\bin\Debug\App2.exe.config
-F:\Програкмирование гикбрэинс\App2\App2\bin\Debug\App2.exe
-F:\Програкмирование гикбрэинс\App2\App2\bin\Debug\App2.pdb
-F:\Програкмирование гикбрэинс\App2\App2\obj\Debug\App2.csproj.AssemblyReference.cache
-F:\Програкмирование гикбрэинс\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
-F:\Програкмирование гикбрэинс\App2\App2\obj\Debug\App2.exe
-F:\Програкмирование гикбрэинс\App2\App2\obj\Debug\App2.pdb
